@@ -1,0 +1,20 @@
+.logout-wrapper {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333; /* Couleur de fond de la barre latérale */
+  padding: 10px 20px; /* Espacement autour de l'élément de déconnexion */
+}
+
+.logout-link {
+  color: white; /* Couleur du texte du lien de déconnexion */
+  text-decoration: none; /* Supprimer le soulignement du lien */
+  display: block;
+  padding: 10px 0; /* Espacement à l'intérieur de l'élément de déconnexion */
+}
+
+/* Style supplémentaire pour le lien lorsqu'il est survolé */
+.logout-link:hover {
+  text-decoration: underline;
+}

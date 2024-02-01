@@ -1,0 +1,6 @@
+.buttonCloseX {
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+  font-size: 50px;
+}
